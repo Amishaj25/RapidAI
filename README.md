@@ -30,10 +30,10 @@ To set up the project, follow these steps:
 - Follow the app's instructions for first aid tips and ambulance booking.
 
 
-![Details](RapidAI/Images/details.png)
-![Login](RapidAI/Images/login.png)
-![Instruction](RapidAI/Images/instruction.png)
-![Booking](RapidAI/Images/booking.png)
-![Google Maps](RapidAI/Images/map.png)
-![Description](RapidAI/Images/desc_voice.ng)
-![Voice](RapidAI/Images/voice.png)
+![Details](Images/details.png)
+![Login](Images/login.png)
+![Instruction](Images/instruction.png)
+![Booking](Images/booking.png)
+![Google Maps](Images/map.png)
+![Description](Images/desc_voice.ng)
+![Voice](Images/voice.png)
