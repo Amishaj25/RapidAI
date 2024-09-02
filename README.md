@@ -30,16 +30,14 @@ To set up the project, follow these steps:
 - Follow the app's instructions for first aid tips and ambulance booking.
 
 
-![Details](Images/details.png)
 
 ![Login](Images/login.png)
-
-![Instruction](Images/instructions.png)
+![Details](Images/details.png)
 
 ![Booking](Images/booking.png)
-
 ![Google Maps](Images/map.png)
 
+![Voice](Images/voice.png)
 ![Description](Images/desc_voice.png)
 
-![Voice](Images/voice.png)
+![Instruction](Images/instructions.png)
