@@ -1,7 +1,7 @@
-# RapidAI - Real-Time Emergency Response with AI Triage
+# RapidAI - Real-Time Emergency Response
 
 ## Overview
-This project was developed for a hackathon and aims to optimize emergency response using AI triage. The project includes a mobile app, backend server, and a custom-trained spaCy model for Named Entity Recognition (NER). The app allows users to call for help, extract key details from their voice calls using speech-to-text models, and provide certified first aid tips based on the extracted information. Additionally, users can book ambulances through the app's map interface.
+This project was developed for a hackathon and aims to optimize emergency response. The project includes a mobile app, backend server, and a custom-trained spaCy model for Named Entity Recognition (NER). The app allows users to call for help, extract key details from their voice calls using speech-to-text models, and provide certified first aid tips based on the extracted information. Additionally, users can book ambulances through the app's map interface.
 
 ## Tech Stack
 - **Mobile App:** Flutter
