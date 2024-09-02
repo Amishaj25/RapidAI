@@ -31,9 +31,15 @@ To set up the project, follow these steps:
 
 
 ![Details](Images/details.png)
+
 ![Login](Images/login.png)
-![Instruction](Images/instruction.png)
+
+![Instruction](Images/instructions.png)
+
 ![Booking](Images/booking.png)
+
 ![Google Maps](Images/map.png)
-![Description](Images/desc_voice.ng)
+
+![Description](Images/desc_voice.png)
+
 ![Voice](Images/voice.png)
